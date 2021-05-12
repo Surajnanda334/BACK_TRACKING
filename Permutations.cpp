@@ -24,7 +24,7 @@ void permutation(string str, int start, int end)
 
 int main()
 {
-  string str = "abc";
+  string str = "abcd";
   permutation(str,0,str.length()-1);
   return 0;
 }
