@@ -2,7 +2,7 @@
 
 using namespace std;
 
-const int N=5;    //Size of the board
+const int N=5;    //Size of the board(change if you want a board of different size)
 
 //Function Prototypes
 void initBoard(int board[N][N]);
